@@ -337,7 +337,13 @@ const subjects = [
             name: "ADD ON COURSE IN C - ASSIGNEMNT 3 - STRUCTURE - L2 & S2",
             pdfLink: "books/adonass3.pdf"
         }
-    ]}
+    ]},
+    { name: 'Xtras (Movies and Entertainment)', image: 'images/movie.jpg', books: [
+        {
+            name: "Join our Telegram Channel for Latest Movie and Series ",
+            pdfLink: "books/join.pdf"
+        },
+    ] },
 ];
 
 function createSubjectCards() {
